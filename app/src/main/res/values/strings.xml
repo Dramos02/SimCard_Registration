@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimCardReg_Ramos</string>
+    <string name="text_areaNameScreen1">Enter your Name</string>
+    <string name="text_areaContactNoScreen1">Enter your Contact Number</string>
+    <string name="text_areaSimNetworkScreen1">Enter your Sim Network</string>
+    <string name="text_areaCompleteAddressScreen1">Enter your Complete Address</string>
+    <string name="button_registerScreen1">Register Now</string>
+
+</resources>
