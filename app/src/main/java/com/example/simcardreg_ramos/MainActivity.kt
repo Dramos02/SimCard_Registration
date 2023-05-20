@@ -66,4 +66,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     //coded by dominic o. ramos 2bsit2 submitted to - Professor Irysh Paulo R. Tipay
+    //Copyrights © https://github.com/Dramos02
 }
