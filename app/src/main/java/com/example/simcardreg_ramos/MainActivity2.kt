@@ -23,4 +23,6 @@ class MainActivity2 : AppCompatActivity() {
 
         binding.txtViewTitleScreen2.text = "Sim Registration Successful!"
     }
+    
+    //Copyrights © https://github.com/Dramos02
 }
